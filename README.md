@@ -2,6 +2,12 @@
 
 Um componente React moderno e elegante para seleção de intervalos de datas, construído com Next.js, TypeScript e Tailwind CSS.
 
+## 🎯 Demonstração
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pedrowesley/date-range-calendar-react/main/demonstration.png" alt="Demonstração do Calendário" width="100%" />
+</div>
+
 ## ✨ Características
 
 - 🎯 Seleção intuitiva de intervalo de datas
